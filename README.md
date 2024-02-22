@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OzgurYaldiz
 - 👀 I’m interested in making an end user Geotechnic software
-- 🌱 I’m currently learning C# and node js
+- 🌱 I’m currently learning C# and Kotlin
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me github
 - 😄 Pronouns: ...
